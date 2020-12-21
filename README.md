@@ -1,5 +1,5 @@
 
-API Urgellet Recicla a copia
+API Urgellet Recicla a copia continua el seu cami apart.
 
 
 A server that serves a webpage, its resources, and some data
