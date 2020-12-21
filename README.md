@@ -1,5 +1,5 @@
 
-API Urgellet Recicla a Github
+API Urgellet Recicla a copia
 
 
 A server that serves a webpage, its resources, and some data
